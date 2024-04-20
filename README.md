@@ -11,5 +11,8 @@ File: Classification of sub images(5 subgroups) using Aruco Markers.ipynb
 - Increased resolution of roi using EDSR_x3.pb
 - Classifying roi into 5 sub groups with model trained previously
 - Applying text and bounding box over roi in original image after classification with their respective predicted sub group classes
+
+<hr>
+[Code submitted in eYRC - eYantra Robotics competition]
   
 
